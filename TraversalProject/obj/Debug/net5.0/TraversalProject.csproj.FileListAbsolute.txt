@@ -217,3 +217,5 @@ C:\Users\hmyrg\source\repos\TraversalProject\TraversalProject\obj\Debug\net5.0\R
 C:\Users\hmyrg\source\repos\TraversalProject\TraversalProject\obj\Debug\net5.0\Razor\Views\Shared\Components\_AdminGuideList\Default.cshtml.g.cs
 C:\Users\hmyrg\source\repos\TraversalProject\TraversalProject\obj\Debug\net5.0\Razor\Views\Shared\Components\_AdminDashboardHeader\Default.cshtml.g.cs
 C:\Users\hmyrg\source\repos\TraversalProject\TraversalProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\Comment\Index.cshtml.g.cs
+C:\Users\hmyrg\source\repos\TraversalProject\TraversalProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\User\Index.cshtml.g.cs
+C:\Users\hmyrg\source\repos\TraversalProject\TraversalProject\obj\Debug\net5.0\Razor\Areas\Admin\Views\User\ReservationUser.cshtml.g.cs
