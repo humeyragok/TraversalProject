@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using MimeKit;
 using TraversalProject.Models;
 
-namespace TraversalCoreProje.Areas.Admin.Controllers
+namespace TraversalProject.Areas.Admin.Controllers
 {
     [Area("Admin")]
     public class MailController : Controller

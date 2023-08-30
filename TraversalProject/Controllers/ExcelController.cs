@@ -7,7 +7,7 @@ using System.IO;
 using System.Linq;
 using TraversalProject.Models;
 
-namespace TraversalCoreProje.Controllers
+namespace TraversalProject.Controllers
 {
     public class ExcelController : Controller {
 
