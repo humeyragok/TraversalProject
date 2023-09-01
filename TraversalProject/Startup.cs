@@ -11,6 +11,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using System.IO;
+using TraversalProject.CQRS.Handlers.DestinationHandlers;
 using TraversalProject.Models;
 
 namespace TraversalProject
@@ -27,6 +28,11 @@ namespace TraversalProject
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddScoped<GetAllDestinationQueryHandler>();
+            services.AddScoped<GetDestinationByIDQueryHandler>();
+            services.AddScoped<CreateDestinationCommandHandler>();
+            services.AddScoped<RemoveDestinationCommandHandler>();
+            services.AddScoped<UpdateDestinationCommandHandler>();
             services.AddLogging(x =>
             {
                 x.ClearProviders();
@@ -41,6 +47,7 @@ namespace TraversalProject
                 ().AddEntityFrameworkStores<Context>();
             services.ContainerDependencies();
 
+            services.AddHttpClient();
             services.AddAutoMapper(typeof(Startup));
 
             services.CustomValidator();
