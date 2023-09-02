@@ -56,13 +56,27 @@ using TraversalProject.CQRS.Results.DestinationResults;
 #nullable disable
 #nullable restore
 #line 7 "C:\Users\hmyrg\source\repos\TraversalProject\TraversalProject\Areas\Admin\Views\_ViewImports.cshtml"
+using TraversalProject.CQRS.Results.GuideResults;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 8 "C:\Users\hmyrg\source\repos\TraversalProject\TraversalProject\Areas\Admin\Views\_ViewImports.cshtml"
 using TraversalProject.CQRS.Commands.DestinationCommands;
 
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 9 "C:\Users\hmyrg\source\repos\TraversalProject\TraversalProject\Areas\Admin\Views\_ViewImports.cshtml"
+using TraversalProject.CQRS.Commands.GuideCommands;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"dbf061db294fa8d3d0da61c0ed9234b0157484d5", @"/Areas/Admin/Views/Announcement/Index.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"75f8bd27e4ac6a24e1cb8a0b94d9660eb6300bc3", @"/Areas/Admin/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"83c5243a24abcea5d596907d5c37bff6fbb80278", @"/Areas/Admin/Views/_ViewImports.cshtml")]
     public class Areas_Admin_Views_Announcement_Index : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<List<DTOLayer.DTOs.AnnouncementDTOs.AnnouncementListDTO>>
     {
         #pragma warning disable 1998
