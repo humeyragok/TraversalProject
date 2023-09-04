@@ -331,7 +331,7 @@ System.Net.Http.HttpRequestException: Response status code does not indicate suc
 2023-09-01T15:42:31.3460992+03:00  [INF] Content root path: "C:\Users\hmyrg\source\repos\TraversalProject\TraversalProject" (b5d60022)
 2023-09-01T15:42:33.8606652+03:00 80000011-0004-fa00-b63f-84710c7967bb [ERR] An unhandled exception has occurred while executing the request. (48a46595)
 System.NullReferenceException: Object reference not set to an instance of an object.
-   at TraversalCoreProje.Areas.Admin.Controllers.DestinationCQRSController.Index() in C:\Users\hmyrg\source\repos\TraversalProject\TraversalProject\Areas\Admin\Controllers\DestinationCQRSController.cs:line 33
+   at TraversalProject.Areas.Admin.Controllers.DestinationCQRSController.Index() in C:\Users\hmyrg\source\repos\TraversalProject\TraversalProject\Areas\Admin\Controllers\DestinationCQRSController.cs:line 33
    at lambda_method174(Closure , Object , Object[] )
    at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
    at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
@@ -378,7 +378,7 @@ System.NullReferenceException: Object reference not set to an instance of an obj
 2023-09-01T16:02:15.1750913+03:00  [INF] Hosting environment: "Development" (c3307c92)
 2023-09-01T16:02:15.1752228+03:00  [INF] Content root path: "C:\Users\hmyrg\source\repos\TraversalProject\TraversalProject" (b5d60022)
 2023-09-01T16:02:15.4950465+03:00 80000022-0004-fb00-b63f-84710c7967bb [ERR] An unhandled exception has occurred while executing the request. (48a46595)
-System.InvalidOperationException: Unable to resolve service for type 'TraversalProject.CQRS.Handlers.DestinationHandlers.GetDestinationByIDQueryHandler' while attempting to activate 'TraversalCoreProje.Areas.Admin.Controllers.DestinationCQRSController'.
+System.InvalidOperationException: Unable to resolve service for type 'TraversalProject.CQRS.Handlers.DestinationHandlers.GetDestinationByIDQueryHandler' while attempting to activate 'TraversalProject.Areas.Admin.Controllers.DestinationCQRSController'.
    at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
    at lambda_method23(Closure , IServiceProvider , Object[] )
    at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
@@ -398,7 +398,7 @@ System.InvalidOperationException: Unable to resolve service for type 'TraversalP
    at Microsoft.AspNetCore.Diagnostics.StatusCodePagesMiddleware.Invoke(HttpContext context)
    at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
 2023-09-01T21:21:46.9168159+03:00 8000006a-0004-fc00-b63f-84710c7967bb [ERR] An unhandled exception has occurred while executing the request. (48a46595)
-System.InvalidOperationException: Unable to resolve service for type 'TraversalProject.CQRS.Handlers.DestinationHandlers.GetDestinationByIDQueryHandler' while attempting to activate 'TraversalCoreProje.Areas.Admin.Controllers.DestinationCQRSController'.
+System.InvalidOperationException: Unable to resolve service for type 'TraversalProject.CQRS.Handlers.DestinationHandlers.GetDestinationByIDQueryHandler' while attempting to activate 'TraversalProject.Areas.Admin.Controllers.DestinationCQRSController'.
    at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
    at lambda_method23(Closure , IServiceProvider , Object[] )
    at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)

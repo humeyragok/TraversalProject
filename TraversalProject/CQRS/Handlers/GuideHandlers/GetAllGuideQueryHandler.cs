@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using TraversalProject.CQRS.Queries.GuideQueries;
 using TraversalProject.CQRS.Results.GuideResults;
 
-namespace TraversalCoreProje.CQRS.Handlers.GuideHandlers
+namespace TraversalProject.CQRS.Handlers.GuideHandlers
 {
     public class GetAllGuideQueryHandler : IRequestHandler<GetAllGuideQuery, List<GetAllGuideQueryResult>>
     {
