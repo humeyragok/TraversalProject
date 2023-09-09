@@ -319,3 +319,8 @@ C:\Users\hmyrg\source\repos\TraversalProject\TraversalProject\bin\Debug\net5.0\e
 C:\Users\hmyrg\source\repos\TraversalProject\TraversalProject\bin\Debug\net5.0\fr\TraversalProject.resources.dll
 C:\Users\hmyrg\source\repos\TraversalProject\TraversalProject\bin\Debug\net5.0\tr\TraversalProject.resources.dll
 C:\Users\hmyrg\source\repos\TraversalProject\TraversalProject\obj\Debug\net5.0\Razor\Views\Information\Index.cshtml.g.cs
+C:\Users\hmyrg\source\repos\TraversalProject\TraversalProject\obj\Debug\net5.0\TraversalProject.Resources.Views.Shared._MemberLayout.en.resources
+C:\Users\hmyrg\source\repos\TraversalProject\TraversalProject\obj\Debug\net5.0\TraversalProject.Resources.Views.Shared._MemberLayout.tr.resources
+C:\Users\hmyrg\source\repos\TraversalProject\TraversalProject\obj\Debug\net5.0\Razor\Areas\Member\Views\Destination\GetCitiesSearchByName.cshtml.g.cs
+C:\Users\hmyrg\source\repos\TraversalProject\TraversalProject\obj\Debug\net5.0\Razor\Views\PasswordChange\ForgetPassword.cshtml.g.cs
+C:\Users\hmyrg\source\repos\TraversalProject\TraversalProject\obj\Debug\net5.0\Razor\Views\PasswordChange\ResetPassword.cshtml.g.cs

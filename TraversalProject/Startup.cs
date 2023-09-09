@@ -6,6 +6,7 @@ using MediatR;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc.Authorization;
 using Microsoft.AspNetCore.Mvc.Razor;
 using Microsoft.Extensions.Configuration;
@@ -48,7 +49,7 @@ namespace TraversalProject
             services.AddIdentity<AppUser, AppRole>
                 ().AddEntityFrameworkStores<Context>
                 ().AddErrorDescriber<CustomIdentityValidator>
-                ().AddEntityFrameworkStores<Context>();
+                ().AddTokenProvider<DataProtectorTokenProvider<AppUser>>(TokenOptions.DefaultProvider).AddEntityFrameworkStores<Context>();
             services.ContainerDependencies();
 
             services.AddHttpClient();
@@ -99,7 +100,7 @@ namespace TraversalProject
             app.UseRouting();
 
             app.UseAuthorization();
-            var suppertedCultures = new[] { "en", "fr", "es", "tr"};
+            var suppertedCultures = new[] { "en", "tr"};
             var localizationOptions = new RequestLocalizationOptions().SetDefaultCulture(suppertedCultures[1]).AddSupportedCultures(suppertedCultures).AddSupportedUICultures(suppertedCultures);
             app.UseRequestLocalization(localizationOptions);
 
