@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "59MYl6eTcr7BkWXFz55+qoFxAQicFZU4AEcLHn1F/u1f+odpxvs2r8fqK4F25q7GTR0rA/bC5LkQPUer491V0A==",
+  "dgSpecHash": "QSDaZXi9rzgYuQxIsfDqXl4ujGiDz5u46Ap23PZgx7ulC3Ce5ZGRArg6T3Ai9Ouk43MpsEVG5ds6b4h+7qgeQw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hmyrg\\source\\repos\\TraversalProject\\SignalRApiForSql\\SignalRApiForSql.csproj",
+  "projectFilePath": "C:\\Users\\hmyrg\\OneDrive\\Masaüstü\\traversal\\SignalRApiForSql\\SignalRApiForSql.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hmyrg\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\hmyrg\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

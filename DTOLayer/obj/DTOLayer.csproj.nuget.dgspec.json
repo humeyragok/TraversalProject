@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hmyrg\\source\\repos\\TraversalProject\\DTOLayer\\DTOLayer.csproj": {}
+    "C:\\Users\\hmyrg\\OneDrive\\Masaüstü\\traversal\\DTOLayer\\DTOLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hmyrg\\source\\repos\\TraversalProject\\DTOLayer\\DTOLayer.csproj": {
+    "C:\\Users\\hmyrg\\OneDrive\\Masaüstü\\traversal\\DTOLayer\\DTOLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hmyrg\\source\\repos\\TraversalProject\\DTOLayer\\DTOLayer.csproj",
+        "projectUniqueName": "C:\\Users\\hmyrg\\OneDrive\\Masaüstü\\traversal\\DTOLayer\\DTOLayer.csproj",
         "projectName": "DTOLayer",
-        "projectPath": "C:\\Users\\hmyrg\\source\\repos\\TraversalProject\\DTOLayer\\DTOLayer.csproj",
+        "projectPath": "C:\\Users\\hmyrg\\OneDrive\\Masaüstü\\traversal\\DTOLayer\\DTOLayer.csproj",
         "packagesPath": "C:\\Users\\hmyrg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hmyrg\\source\\repos\\TraversalProject\\DTOLayer\\obj\\",
+        "outputPath": "C:\\Users\\hmyrg\\OneDrive\\Masaüstü\\traversal\\DTOLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hmyrg\\AppData\\Roaming\\NuGet\\NuGet.Config",

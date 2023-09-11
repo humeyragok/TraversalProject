@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hmyrg\\source\\repos\\TraversalProject\\SignalRApi\\SignalRApi.csproj": {}
+    "C:\\Users\\hmyrg\\OneDrive\\Masaüstü\\traversal\\SignalRApi\\SignalRApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hmyrg\\source\\repos\\TraversalProject\\SignalRApi\\SignalRApi.csproj": {
+    "C:\\Users\\hmyrg\\OneDrive\\Masaüstü\\traversal\\SignalRApi\\SignalRApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hmyrg\\source\\repos\\TraversalProject\\SignalRApi\\SignalRApi.csproj",
+        "projectUniqueName": "C:\\Users\\hmyrg\\OneDrive\\Masaüstü\\traversal\\SignalRApi\\SignalRApi.csproj",
         "projectName": "SignalRApi",
-        "projectPath": "C:\\Users\\hmyrg\\source\\repos\\TraversalProject\\SignalRApi\\SignalRApi.csproj",
+        "projectPath": "C:\\Users\\hmyrg\\OneDrive\\Masaüstü\\traversal\\SignalRApi\\SignalRApi.csproj",
         "packagesPath": "C:\\Users\\hmyrg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hmyrg\\source\\repos\\TraversalProject\\SignalRApi\\obj\\",
+        "outputPath": "C:\\Users\\hmyrg\\OneDrive\\Masaüstü\\traversal\\SignalRApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hmyrg\\AppData\\Roaming\\NuGet\\NuGet.Config",

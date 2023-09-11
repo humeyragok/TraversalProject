@@ -22,7 +22,7 @@ namespace SignalRApiForSql.Controllers
         public IActionResult CreateVisitor()
         {
             Random random = new Random();
-            Enumerable.Range(1, 10).ToList().ForEach(x =>
+            Enumerable.Range(1, 100000).ToList().ForEach(x =>
             {
                 foreach (ECity item in Enum.GetValues(typeof(ECity)))
                 {

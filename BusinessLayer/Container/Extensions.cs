@@ -36,14 +36,7 @@ namespace BusinessLayer.Container
             services.AddScoped<IGuideService, GuideManager>();
             services.AddScoped<IGuideDal, EfGuideDal>();
 
-            services.AddScoped<IReservationService,ReservationManager>();
-            services.AddScoped<IReservationDal, EfReservationDal>();
-
-            services.AddScoped<IGuideService, GuideManager>();
-            services.AddScoped<IGuideDal, EfGuideDal>();
-            
             services.AddScoped<IExcelService, ExcelManager>();
-
             services.AddScoped<IPdfService, PdfManager>();
 
             services.AddScoped<IContactUsService, ContactUsManager>();

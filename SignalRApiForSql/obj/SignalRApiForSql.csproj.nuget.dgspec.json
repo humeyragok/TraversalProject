@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hmyrg\\source\\repos\\TraversalProject\\SignalRApiForSql\\SignalRApiForSql.csproj": {}
+    "C:\\Users\\hmyrg\\OneDrive\\Masaüstü\\traversal\\SignalRApiForSql\\SignalRApiForSql.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hmyrg\\source\\repos\\TraversalProject\\SignalRApiForSql\\SignalRApiForSql.csproj": {
+    "C:\\Users\\hmyrg\\OneDrive\\Masaüstü\\traversal\\SignalRApiForSql\\SignalRApiForSql.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hmyrg\\source\\repos\\TraversalProject\\SignalRApiForSql\\SignalRApiForSql.csproj",
+        "projectUniqueName": "C:\\Users\\hmyrg\\OneDrive\\Masaüstü\\traversal\\SignalRApiForSql\\SignalRApiForSql.csproj",
         "projectName": "SignalRApiForSql",
-        "projectPath": "C:\\Users\\hmyrg\\source\\repos\\TraversalProject\\SignalRApiForSql\\SignalRApiForSql.csproj",
+        "projectPath": "C:\\Users\\hmyrg\\OneDrive\\Masaüstü\\traversal\\SignalRApiForSql\\SignalRApiForSql.csproj",
         "packagesPath": "C:\\Users\\hmyrg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hmyrg\\source\\repos\\TraversalProject\\SignalRApiForSql\\obj\\",
+        "outputPath": "C:\\Users\\hmyrg\\OneDrive\\Masaüstü\\traversal\\SignalRApiForSql\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hmyrg\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e6wDaOUbzWabT1d56iT8BZSNPPKnrnnsYYr7nD/UKp1OFy+IIXl5jIePZsi0WEpZxDN2u1yinYA1kX7MZmdnDQ==",
+  "dgSpecHash": "NOXpTr0YloJOtSwGgzLw6o0qrxVY1PCORqgE4xL+OIHM2PvRiM2wibt0pC2KnZNTXhp/LGoZoIUxGmkB4z0qAA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hmyrg\\source\\repos\\TraversalProject\\SignalRConsume\\SignalRConsume.csproj",
+  "projectFilePath": "C:\\Users\\hmyrg\\OneDrive\\Masaüstü\\traversal\\SignalRConsume\\SignalRConsume.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hmyrg\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\hmyrg\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

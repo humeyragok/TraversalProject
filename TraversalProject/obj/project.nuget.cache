@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bZST7CJf1I57Gj31TQPCAzjgKQyjBC7fvjKdLu9lPt2Cq/4WhGUY08IjMM4LcjMYyeJ4sLvVk/PbuQd/GtBgXA==",
+  "dgSpecHash": "Q2yCYjFRkoCz3CmYMDt2eC8h1ilaM+wgj1xdPQyWC/75jhh5qpXEGYNFiC7bPORYjYTC50Dmch0OYWTHXsm8Cw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hmyrg\\source\\repos\\TraversalProject\\TraversalProject\\TraversalProject.csproj",
+  "projectFilePath": "C:\\Users\\hmyrg\\OneDrive\\Masaüstü\\traversal\\TraversalProject\\TraversalProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hmyrg\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\hmyrg\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

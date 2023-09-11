@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4AIU5N5VbNbVW3Id0KuWsOzBJS0eapDDZ07v9dnxiqOHCNat8Vif3qXIkVACPLKJ3y6ZHOcvSgEZdELE2EzSiA==",
+  "dgSpecHash": "PK8Aw5UbcyV6fGQ8MJcHQyKFchVAuSTOD2ZRO3oG71dOr0M+izTgoo3GEZrkI00CtTJ9hQyKdI/hxad7IBFYAw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hmyrg\\source\\repos\\TraversalProject\\EntityLayer\\EntityLayer.csproj",
+  "projectFilePath": "C:\\Users\\hmyrg\\OneDrive\\Masaüstü\\traversal\\EntityLayer\\EntityLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hmyrg\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\hmyrg\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",

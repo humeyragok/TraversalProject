@@ -10487,11 +10487,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hmyrg\\source\\repos\\TraversalProject\\TraversalProject\\TraversalProject.csproj",
+      "projectUniqueName": "C:\\Users\\hmyrg\\OneDrive\\Masaüstü\\traversal\\TraversalProject\\TraversalProject.csproj",
       "projectName": "TraversalProject",
-      "projectPath": "C:\\Users\\hmyrg\\source\\repos\\TraversalProject\\TraversalProject\\TraversalProject.csproj",
+      "projectPath": "C:\\Users\\hmyrg\\OneDrive\\Masaüstü\\traversal\\TraversalProject\\TraversalProject.csproj",
       "packagesPath": "C:\\Users\\hmyrg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hmyrg\\source\\repos\\TraversalProject\\TraversalProject\\obj\\",
+      "outputPath": "C:\\Users\\hmyrg\\OneDrive\\Masaüstü\\traversal\\TraversalProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hmyrg\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -10508,14 +10508,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\hmyrg\\source\\repos\\TraversalProject\\BusinessLayer\\BusinessLayer.csproj": {
-              "projectPath": "C:\\Users\\hmyrg\\source\\repos\\TraversalProject\\BusinessLayer\\BusinessLayer.csproj"
+            "C:\\Users\\hmyrg\\OneDrive\\Masaüstü\\traversal\\BusinessLayer\\BusinessLayer.csproj": {
+              "projectPath": "C:\\Users\\hmyrg\\OneDrive\\Masaüstü\\traversal\\BusinessLayer\\BusinessLayer.csproj"
             },
-            "C:\\Users\\hmyrg\\source\\repos\\TraversalProject\\DataAccessLayer\\DataAccessLayer.csproj": {
-              "projectPath": "C:\\Users\\hmyrg\\source\\repos\\TraversalProject\\DataAccessLayer\\DataAccessLayer.csproj"
+            "C:\\Users\\hmyrg\\OneDrive\\Masaüstü\\traversal\\DataAccessLayer\\DataAccessLayer.csproj": {
+              "projectPath": "C:\\Users\\hmyrg\\OneDrive\\Masaüstü\\traversal\\DataAccessLayer\\DataAccessLayer.csproj"
             },
-            "C:\\Users\\hmyrg\\source\\repos\\TraversalProject\\EntityLayer\\EntityLayer.csproj": {
-              "projectPath": "C:\\Users\\hmyrg\\source\\repos\\TraversalProject\\EntityLayer\\EntityLayer.csproj"
+            "C:\\Users\\hmyrg\\OneDrive\\Masaüstü\\traversal\\EntityLayer\\EntityLayer.csproj": {
+              "projectPath": "C:\\Users\\hmyrg\\OneDrive\\Masaüstü\\traversal\\EntityLayer\\EntityLayer.csproj"
             }
           }
         }

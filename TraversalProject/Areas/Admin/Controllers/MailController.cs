@@ -19,7 +19,7 @@ namespace TraversalProject.Areas.Admin.Controllers
         {
             MimeMessage mimeMessage = new MimeMessage();
 
-            MailboxAddress mailboxAddressFrom = new MailboxAddress("Admin", "traversalproject1@gmail.com");
+            MailboxAddress mailboxAddressFrom = new MailboxAddress("Admin", "traversalproject2@gmail.com");
 
             mimeMessage.From.Add(mailboxAddressFrom);
 
@@ -34,7 +34,7 @@ namespace TraversalProject.Areas.Admin.Controllers
 
             SmtpClient client = new SmtpClient();
             client.Connect("smtp.gmail.com", 587, false);
-            client.Authenticate("traversalproject1@gmail.com", "mafqmospidhoetmj");
+            client.Authenticate("traversalproject2@gmail.com", "pgoqpheklkxrtyxx");
             client.Send(mimeMessage);
             client.Disconnect(true);
             return View();

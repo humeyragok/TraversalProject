@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hmyrg\\source\\repos\\TraversalProject\\SignalRConsume\\SignalRConsume.csproj": {}
+    "C:\\Users\\hmyrg\\OneDrive\\Masaüstü\\traversal\\SignalRConsume\\SignalRConsume.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hmyrg\\source\\repos\\TraversalProject\\SignalRConsume\\SignalRConsume.csproj": {
+    "C:\\Users\\hmyrg\\OneDrive\\Masaüstü\\traversal\\SignalRConsume\\SignalRConsume.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hmyrg\\source\\repos\\TraversalProject\\SignalRConsume\\SignalRConsume.csproj",
+        "projectUniqueName": "C:\\Users\\hmyrg\\OneDrive\\Masaüstü\\traversal\\SignalRConsume\\SignalRConsume.csproj",
         "projectName": "SignalRConsume",
-        "projectPath": "C:\\Users\\hmyrg\\source\\repos\\TraversalProject\\SignalRConsume\\SignalRConsume.csproj",
+        "projectPath": "C:\\Users\\hmyrg\\OneDrive\\Masaüstü\\traversal\\SignalRConsume\\SignalRConsume.csproj",
         "packagesPath": "C:\\Users\\hmyrg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hmyrg\\source\\repos\\TraversalProject\\SignalRConsume\\obj\\",
+        "outputPath": "C:\\Users\\hmyrg\\OneDrive\\Masaüstü\\traversal\\SignalRConsume\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hmyrg\\AppData\\Roaming\\NuGet\\NuGet.Config",

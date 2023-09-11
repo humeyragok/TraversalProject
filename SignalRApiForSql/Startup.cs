@@ -46,6 +46,7 @@ namespace SignalRApiForSql
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "SignalRApiForSql", Version = "v1" });
             });
+
             services.AddDbContext<Context>(options =>
             {
                 options.UseSqlServer(Configuration["DefaultConnection"]);
